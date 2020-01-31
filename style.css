@@ -1,0 +1,36 @@
+body {
+	font-family: 'Sigmar One', cursive;
+font-family: 'Press Start 2P', cursive;
+}
+
+h2 {
+	font-size: 2em;
+	color: #ffffff;
+	padding-top: 30px;
+}
+
+
+input {
+	text-align: center;
+	margin-top: 10px;
+	width: 60%;
+	font-size: 1.6em;
+	font-family: 'Sigmar One', cursive;
+font-family: 'Press Start 2P', cursive;
+}
+
+button {
+	margin-top: 10px;
+	width: 25%;
+	font-size: 1em;
+	font-family: 'Sigmar One', cursive;
+	font-family: 'Press Start 2P', cursive;
+	margin-bottom: 30px;
+}
+
+div {
+	background-color: black;
+	margin-left: 20%;
+	margin-right: 20%;
+	margin-top: 150px;
+}
